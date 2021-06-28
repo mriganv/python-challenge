@@ -44,6 +44,7 @@ In addition, we were asked print the analysis to the terminal and export a text 
 Below is the result for the same!
 
 
+![Outputtxt for PYBANK](https://user-images.githubusercontent.com/81407869/123717557-f3c98700-d831-11eb-826c-706b2700aecb.png)
 
 which is attached in the main folder as output.txt file
 
@@ -69,6 +70,8 @@ The total number of votes each candidate won
 The winner of the election based on popular vote.
 
 Got the results like below
+
+![Outputtxt for PyPoll](https://user-images.githubusercontent.com/81407869/123717589-ffb54900-d831-11eb-92c7-659f4096bd50.png)
 
 Election Results
 Total Votes: 3521001
