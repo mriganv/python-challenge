@@ -1,5 +1,8 @@
-###Python-challenge
+#Python-challenge
+
 ##Background
+
+
 Provided with two different excel sheets for PyBank and Pypoll, I started with
 
 creating a new repository for this Python-challenge homework and named it python-challenge.
