@@ -1,6 +1,6 @@
-#Python Challenge
+# Python Challenge
 
-##Background
+## Background
 
 Provided with two different excel sheets for PyBank and Pypoll, I started with
 
