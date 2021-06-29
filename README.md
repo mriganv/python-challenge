@@ -53,7 +53,7 @@ which is attached in the main folder as output.txt file
 
 ### Analysis for PyPoll
 
--------------------------
+--------------------------
 
 In this challenge, we were are tasked with helping a small, rural town modernize its vote counting process.
 
