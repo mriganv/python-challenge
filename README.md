@@ -71,12 +71,12 @@ The winner of the election based on popular vote.
 
 Got the results like below
 
-![Outputtxt for PyPoll](https://user-images.githubusercontent.com/81407869/123717589-ffb54900-d831-11eb-92c7-659f4096bd50.png)
-
 Election Results
 Total Votes: 3521001
 Khan: 63.000% (2218231) Correy: 20.000% (704200) Li: 14.000% (492940) O'Tooley: 3.000% (105630)
 
-Idition, to out final script we had to print the analysis to the terminal and export a text file with the results.Here is the image of the same.
+![Outputtxt for Pypoll](https://user-images.githubusercontent.com/81407869/123717774-689cc100-d832-11eb-87f4-02ea5ec9435e.png)
+
+In addition, to out final script we had to print the analysis to the terminal and export a text file with the results.Here is the image of the same.
 
 And the same is been place below the Resources folder in github
