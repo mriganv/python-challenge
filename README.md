@@ -14,7 +14,7 @@ Inside the respository created a file called main.py where the python script is 
 
 --------------------------
 
-Analaysis for PyBank:
+### Analaysis for PyBank:
 
 --------------------------
 
@@ -51,7 +51,7 @@ which is attached in the main folder as output.txt file
 
 -------------------------
 
-Analysis for PyPoll
+### Analysis for PyPoll
 
 -------------------------
 
